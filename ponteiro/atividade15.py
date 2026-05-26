@@ -1,0 +1,1 @@
+# Objetos imutáveis criam novos objetos ao serem alterados.

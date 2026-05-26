@@ -1,0 +1,1 @@
+# Listas são mutáveis e podem apontar para o mesmo objeto.

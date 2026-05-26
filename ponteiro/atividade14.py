@@ -1,0 +1,1 @@
+# Objetos mutáveis podem ser alterados após criação.
